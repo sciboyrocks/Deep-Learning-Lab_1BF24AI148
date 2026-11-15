@@ -6,7 +6,7 @@ This repository holds all the self-learning / continuous evaluation lab programs
 
 | # | Program | Folder |
 |---|---|---|
-| 1 | _(add Program 1 here)_ | `Program_01_...` |
+| 1 | Batch / stochastic / mini-batch gradient descent · Momentum & adaptive optimizers with LR schedules · Overfitting, dropout, L2, data augmentation, early stopping · Plain vs. residual MLPs (Fashion-MNIST) | [`Program_01_GD_Optimizers_Regularization_ResMLP`](Program_01_GD_Optimizers_Regularization_ResMLP) |
 | 2 | Hugging Face Hub, dataset loading & model cards · Convolution and max-pooling in NumPy · Kernel size / stride / padding · Basic CNN for CIFAR-10 | [`Program_02_HF_Hub_Conv_Pool_CNN`](Program_02_HF_Hub_Conv_Pool_CNN) |
 
 ## Setup
